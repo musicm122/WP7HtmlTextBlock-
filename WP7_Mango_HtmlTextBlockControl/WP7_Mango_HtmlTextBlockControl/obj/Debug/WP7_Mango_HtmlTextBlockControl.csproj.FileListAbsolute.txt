@@ -1,0 +1,7 @@
+c:\users\terrance\documents\visual studio 2010\Projects\WP7_Mango_HtmlTextBlockControl\WP7_Mango_HtmlTextBlockControl\obj\Debug\ResolveAssemblyReference.cache
+c:\users\terrance\documents\visual studio 2010\Projects\WP7_Mango_HtmlTextBlockControl\WP7_Mango_HtmlTextBlockControl\Bin\Debug\WP7_Mango_HtmlTextBlockControl.dll
+c:\users\terrance\documents\visual studio 2010\Projects\WP7_Mango_HtmlTextBlockControl\WP7_Mango_HtmlTextBlockControl\Bin\Debug\WP7_Mango_HtmlTextBlockControl.pdb
+c:\users\terrance\documents\visual studio 2010\Projects\WP7_Mango_HtmlTextBlockControl\WP7_Mango_HtmlTextBlockControl\Bin\Debug\HtmlAgilityPack.dll
+c:\users\terrance\documents\visual studio 2010\Projects\WP7_Mango_HtmlTextBlockControl\WP7_Mango_HtmlTextBlockControl\Bin\Debug\HtmlAgilityPack.pdb
+c:\users\terrance\documents\visual studio 2010\Projects\WP7_Mango_HtmlTextBlockControl\WP7_Mango_HtmlTextBlockControl\obj\Debug\WP7_Mango_HtmlTextBlockControl.dll
+c:\users\terrance\documents\visual studio 2010\Projects\WP7_Mango_HtmlTextBlockControl\WP7_Mango_HtmlTextBlockControl\obj\Debug\WP7_Mango_HtmlTextBlockControl.pdb
