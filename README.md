@@ -7,6 +7,10 @@ Example:
 
 <pre><code>&lt;local:HtmlTextBlock x:Name="htmlTextBlock" Canvas.Left="2" Canvas.Top="2" TextWrapping="Wrap" UseDomAsParser="true" Text="&lt;html&gt;&lt;body&gt; hello &lt;/body&gt; &lt;/html&gt;" Margin="6,6,26,139" /&gt;</code></pre>
 
+Note:
+Your html will have to be escaped such that 
+&lt = < and &gt = > 
+
 For detailed usage see:https://github.com/musicm122/WP7HtmlTextBlock-/blob/master/HtmlTextBlockTest/HtmlTextBlockTest/MainPage.xaml
 
 =================
