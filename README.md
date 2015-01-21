@@ -3,6 +3,14 @@ WP7HtmlTextBlock-
 
 Example HtmlTextBlock For WP7
 
+Example:
+
+<pre><code>&lt;local:HtmlTextBlock x:Name="htmlTextBlock" Canvas.Left="2" Canvas.Top="2" TextWrapping="Wrap" UseDomAsParser="true" Text="&lt;html&gt;&lt;body&gt; hello &lt;/body&gt; &lt;/html&gt;" Margin="6,6,26,139" /&gt;</code></pre>
+
+For detailed usage see:https://github.com/musicm122/WP7HtmlTextBlock-/blob/master/HtmlTextBlockTest/HtmlTextBlockTest/MainPage.xaml
+
+=================
+
 The MIT License (MIT)
 
 Copyright (c) 2012 Terrance Smith
